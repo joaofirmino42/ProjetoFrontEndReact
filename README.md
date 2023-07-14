@@ -1,4 +1,4 @@
-# Meu Projet Front Com React
+# Meu Projet Front-end Com React
 
 Este pequeno projeto faz parte do material diático da Disciplina **Desenvolvimento Front-end Avançado** 
 
