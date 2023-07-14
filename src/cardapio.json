@@ -1,0 +1,48 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "title": "Cerveja perfeita para o final de semana",
+            "descricao": "Cerveja puro malte",
+            "price": 16.99,
+            "rating": 4.8,
+            "brand": "Cerveja Praya",
+            "image": [
+                "https://www.imigrantesbebidas.com.br/bebida/images/products/full/88267-cerveja-praya-witbier-600ml.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Salada Proteica",
+            "descricao": "Salada de grão de bico",
+            "price": 20.00,
+            "rating": 7.8,
+            "brand": "Salada",
+            "image": [
+                "https://www.sabornamesa.com.br/media/k2/items/cache/139702ff92e93f29d84ebf976a5dfd8f_XL.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Pizza",
+            "descricao": "Pizza Vegana",
+            "price": 30.00,
+            "rating": 5.8,
+            "brand": "Pizza",
+            "image": [
+                "https://veganandcolors.com/wp-content/uploads/2019/09/F1.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Hamburguer Vegano",
+            "descricao": "Hamburguer vegano de Falavel",
+            "price": 25.00,
+            "rating": 4.8,
+            "brand": "Hamburguer",
+            "image": [
+                "https://s2-glamour.glbimg.com/UzrSxNEwwcGMdKFwyd7WEZzSCqo=/0x0:607x426/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2021/9/4/GhGZyJRIqoQ1ervgMppA/2017-09-06-hamburguer-vegetariano-de-falafel-stunt-burger.jpg"
+            ]
+        }
+    ]
+}
