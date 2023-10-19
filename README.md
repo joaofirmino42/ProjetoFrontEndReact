@@ -11,7 +11,7 @@ https://www.figma.com/file/4qgK8C8W6zMdMgVzaObU1S/HomePage?type=design&node-id=1
 https://www.figma.com/file/4qgK8C8W6zMdMgVzaObU1S/HomePage?type=design&node-id=102%3A5&mode=dev
 ---
 # Projeto
-Um site em React de um redtaurante vegetariano
+Um site em React de um restaurante vegetariano
 ---
 ## Como executar
 Será necessário ter o Node.JS instalado no computador.
@@ -19,7 +19,7 @@ Será necessário ter todas as libs  listadas no`package.json` instaladas.
 Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal, para poder executar os comandos descritos abaixo.
 
 ```
-$ npm start
+$ npm i
 ```
 Este comando instala as dependências/bibliotecas, descritas no arquivo `package.json`.
 
